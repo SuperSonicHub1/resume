@@ -26,7 +26,7 @@ cv:
           - A. H. Seltzman
     experience:
       - company: MIT Plasma Science and Fusion Center
-        position: Student Researcher
+        position: Student Researcher 
         location: Cambridge, MA
         start_date: 2024-02
         end_date: present
@@ -37,6 +37,17 @@ cv:
           - Member of second cohort of [Fusion Undergraduate Scholars](https://www-new.psfc.mit.edu/fusars) program
           - Presented posters, presentations at AM2F 2024, [SOFE 2025](https://plasmafusion.eventsair.com/sofe2025),
             and [AM2F 2025](https://am2f2025.psfc.mit.edu/)
+          - work done under Andrew Seltzman, Research Scientist
+      - company: MIT Laboratory for Information and Decision Systems
+        position: Student Researcher
+        location: Cambridge, MA
+        start_date: 2024-09
+        end_date: present
+        highlights:
+          - Designing a website for aggregating air pollution forecasting models
+          - Svelte frontend queries geospatial database through Python backend
+          - Learned to better communicate needs and progress with teammates during meetings 
+          - work done under Tamara Broderick, Associate Professor of EECS
       - company: Amazon Web Services
         position: Software Development Engineer Intern, Amazon Detective/Security Hub
         location: Boston, MA
