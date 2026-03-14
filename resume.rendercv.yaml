@@ -65,16 +65,6 @@ cv:
         highlights:
           - Improved database integrity through implementation of Lambda function
           - Learned various AWS technologies, including DynamoDB, CDK, EventBridge
-      - company: MIT D-Lab
-        position: Student Engineer
-        location: Cambridge, MA
-        start_date: 2023-09
-        end_date: 2023-12
-        highlights:
-          - Led re-write of interactive EN-ROADS-inspired dashboard for
-            understanding the climate effects of MIT's HVAC systems
-          - Implemented procedure for robustly enforcing code readability, portability
-          - Taught Git, Poetry to numerous team members as part of onboarding
     technologies:
       - label: Languages
         details: Python, JavaScript, TypeScript, Java, SQL, Rust, MATLAB, C
