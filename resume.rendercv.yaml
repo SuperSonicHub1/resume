@@ -20,7 +20,7 @@ cv:
         degree: BS
         end_date: 2027-05
     publications:
-      - title: Optimization of Precipitate Segmentation Through Linear Genetic Programming of Image Processing (in preparation)
+      - title: Optimization of Precipitate Segmentation Through Linear Genetic Programming of Image Processing (in review)
         doi: 10.48550/ARXIV.2602.07310
         authors:
           - "**K. A. Williams**"
