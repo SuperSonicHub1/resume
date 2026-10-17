@@ -45,6 +45,16 @@ cv:
         location: Boston, MA
         start_date: 2024-06
         end_date: 2024-08
+      - company: Streamforge
+        position: Intern, Assistant to Head of Engineering
+        location: Boston, MA
+        start_date: 2023-06
+        end_date: 2023-08
+      - company: Streamforge
+        position: Intern, Assistant to Head of Engineering
+        location: Boston, MA
+        start_date: 2022-06
+        end_date: 2022-08
     publications:
       - title: Optimization of Precipitate Segmentation Through Linear Genetic Programming of Image Processing (in review)
         doi: 10.48550/ARXIV.2602.07310

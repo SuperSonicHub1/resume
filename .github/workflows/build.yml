@@ -32,7 +32,7 @@ jobs:
       - name: Build resume
         run: |
           rendercv render resume.rendercv.yaml --pdf-path _output/resume.pdf --html-path _output/resume.html --dont-generate-png
-
+          rendercv render cv.rendercv.yaml --pdf-path _output/cv.pdf --html-path _output/cv.html --dont-generate-png
       - uses: actions/upload-pages-artifact@v4
         with:
           path: "_output/"
