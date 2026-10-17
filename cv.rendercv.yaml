@@ -1,0 +1,60 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Kyle Anthony Williams
+  location: Brooklyn, NY; Cambridge, MA
+  email:
+    - kawcco@mit.edu
+    - kyle.anthony.williams2@gmail.com
+  website: https://kawcco.com/
+  social_networks:
+    - network: GitHub
+      username: supersonichub1
+    - network: ORCID
+      username: "0009-0001-3193-328X"
+  sections:
+    education:
+      - institution: Massachusetts Institute of Technology
+        area: Electrical Engineering and Computer Science (Candidate)
+        degree: BS
+        start_date: 2023-09
+        end_date: 2027-05
+    research_experience:
+      - company: MIT Mathematics
+        position: "Student Researcher ([UROP+](https://math.mit.edu/research/undergraduate/urop-plus/index.php) 2026)"
+        location: Cambridge, MA
+        start_date: 2026-06
+        end_date: 2026-08
+      - company: MIT Plasma Science and Fusion Center
+        position: "Student Researcher ([FFUSars](https://sites.mit.edu/ffusars/) 2024)"
+        location: Cambridge, MA
+        start_date: 2024-02
+        end_date: present
+      - company: MIT Laboratory for Information and Decision Systems
+        position: Student Researcher
+        location: Cambridge, MA
+        start_date: 2025-09
+        end_date: present
+    industry_experience:
+      - company: Amazon Web Services
+        position: Software Development Engineer Intern, Amazon Detective/Security Hub
+        location: Boston, MA
+        start_date: 2025-06
+        end_date: 2025-08
+      - company: Amazon Web Services
+        position: Software Development Engineer Intern, Amazon Detective
+        location: Boston, MA
+        start_date: 2024-06
+        end_date: 2024-08
+    publications:
+      - title: Optimization of Precipitate Segmentation Through Linear Genetic Programming of Image Processing (in review)
+        doi: 10.48550/ARXIV.2602.07310
+        authors:
+          - "**K. A. Williams**"
+          - A. H. Seltzman
+    awards:
+      - bullet: Amazon Future Engineer Class of 2023
+design:
+  theme: classic
+  sections:
+    show_time_spans_in:
+      - experience
